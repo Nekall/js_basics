@@ -7,4 +7,4 @@ for(var count = 1; count <= answer; count++){
   temp = (count*temp);
 }
 
-console.log(temp);
+console.log(`La factorielle de ${answer} est : ${temp}`);
