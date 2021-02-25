@@ -1,5 +1,5 @@
 # Projet : JavaScript - Exercices basiques
-
+<hr>
 ## List des scripts réalisés
 
 
@@ -42,6 +42,7 @@
 **d'après un array fourni*
 
 **Script_6.js** qui transforme un ARN présenté sous forme de string  en une suite d'acides aminés  imprimer en console.<br>
+<br>
 **Script_7.js** bot ado, pour s'adresser au bot, un fenêtre de prompt s'ouvre. L'utilisateur peut y saisir sa phrase et le bot répondra via une impression en console.
 
 Les règles de conversations du bot sont les suivantes (rangées par priorité - si deux règles sont vraies, seule la plus haute dans la liste s'applique) :
