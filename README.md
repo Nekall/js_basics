@@ -2,7 +2,6 @@
 
 ## List des scripts réalisés
 
- :
 
 **Script_1.js** qui affiche "Bonjour, monde !" dans la console. Voici les lignes que tu dois voir dans ta console :
 
